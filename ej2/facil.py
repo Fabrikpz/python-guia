@@ -1,0 +1,5 @@
+print("ingrese nombre del psj:")
+name = str(input())
+print("ingrese cant de pociones:")
+pociones = int(input())
+print("el psj se llama", name, "y tiene", pociones, "pociones")
