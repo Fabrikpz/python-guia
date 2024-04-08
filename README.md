@@ -1,5 +1,5 @@
 # Proyecto de Programación 3
-##HOLA PROFE BUEN DIA
+## HOLA PROFE BUEN DIA
 Este es el repositorio del proyecto de Programación 3 para el curso dirigido por el Profesor Moisés Tinte. En este proyecto, se desarrollará [descripción breve del proyecto].
 
 ## Descripción del Proyecto
