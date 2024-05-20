@@ -1,8 +1,8 @@
 # ¡Hola Profesor Moisés Tinte, Buen Día! 👋
 
-¡Bienvenido al repositorio del proyecto de Programación 3! 🚀
+¡Bienvenido al repositorio de los trabajos prácticos de Programación! 🚀
 
-Este proyecto ha sido creado como parte del curso de Programación 3 que usted dirige. A continuación, encontrará información detallada sobre el proyecto y cómo trabajar con él.
+A continuación, encontrará información detallada sobre el proyecto y cómo trabajar con él.
 
 ## Descripción del Proyecto
 
